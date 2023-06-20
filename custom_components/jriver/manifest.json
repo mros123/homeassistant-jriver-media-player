@@ -1,0 +1,12 @@
+{
+  "domain": "jriver",
+  "name": "Jriver MEdia Center",
+  "codeowners": [
+    "@mros123"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/mros123/homeassistant-jriver-media-player",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/mros123/homeassistant-jriver-media-player/issues",
+  "version": "0.0.0"
+}
